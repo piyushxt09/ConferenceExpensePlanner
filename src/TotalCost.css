@@ -38,3 +38,24 @@
 .right {
   margin-right: 0;
 }
+
+
+@media screen and (max-width: 500px) {
+  .display_box {
+    padding: 20px;
+    width: 100vw;
+    margin: 0px auto;
+  }
+  .table_item_data th {
+    font-size: 18px;
+  }
+  .table_item_data td {
+    font-size: 18px;
+  }
+  .pricing-app h2 {
+    font-size: 35px;
+  }
+  .preheading h3{
+    font-size: 18px;
+  }
+}
