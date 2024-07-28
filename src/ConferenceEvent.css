@@ -34,12 +34,12 @@
     width: 300px;
   }
   .text h1{
-    width: 900px;
-    font-size: 40px;
+    width: 800px;
+    font-size: 30px;
     background-color: #133b6a;
     color: white;
     width:990px;
-    height: 70px;
+    height: 60px;
     margin-left: 240px;
     display: flex;
     align-items: center;
@@ -265,7 +265,7 @@
   }
   .nav_links{
     display: flex;
-    gap: 170px;
+    gap: 100px;
   }
   .left_navbar{
     width: 60vw;
@@ -291,7 +291,7 @@
     gap: 20px;
   }
   .details_button {
-    padding: 8px 16px;
+    padding: 8px 12px;
     background-color: #EFC16B;
     color: black;
     /* border: 1px solid white; */
